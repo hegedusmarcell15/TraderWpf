@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36414.22 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraderWpf", "TraderWpf.csproj", "{56112AC5-E626-4242-995C-23FA3B0D7D61}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraderWpf", "TraderWpf\TraderWpf.csproj", "{AD43AB48-93CC-404D-AF8D-1F604B9C8CC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +16,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{56112AC5-E626-4242-995C-23FA3B0D7D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{56112AC5-E626-4242-995C-23FA3B0D7D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{56112AC5-E626-4242-995C-23FA3B0D7D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{56112AC5-E626-4242-995C-23FA3B0D7D61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD43AB48-93CC-404D-AF8D-1F604B9C8CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD43AB48-93CC-404D-AF8D-1F604B9C8CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD43AB48-93CC-404D-AF8D-1F604B9C8CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD43AB48-93CC-404D-AF8D-1F604B9C8CC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6AF2601C-6212-46E9-AF95-FA921A7369EB}
+		SolutionGuid = {5F61FA40-48D0-4645-91D7-58BF22155CA6}
 	EndGlobalSection
 EndGlobal
